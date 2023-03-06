@@ -1,6 +1,6 @@
 <h1> Projetos Responsivos <h1/>
 <br/>
-<h2> Esses foram alguns projetos aprendidos no <a <a href="https://rodolfomori.com.br/devclub"> DEVCLUB </a> </h2>
+<h2> Esses foram alguns projetos aprendidos no <a href="https://rodolfomori.com.br/devclub"> DEVCLUB </a> </h2>
 <br/>
 <h3> Nesses projetos foram utilizadas as seguintes tecnologias:<h3/>
 <br/>
