@@ -20,7 +20,7 @@ body {
     background-color: #000000;/*  Troca cor de fundo  */
     width: 95%; /*  Largura  */
     max-width: 400px; /*  Largura  Maxima */
-    opacity: 0.8;/* transparencia do item */
+    opacity: 0.8;/* transparencia do  item */
     padding: 20px;
     border-radius: 25px;
 }
